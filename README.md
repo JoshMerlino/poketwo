@@ -4,13 +4,13 @@
 :bangbang: | Pokétwo is currently undergoing a full rewrite—if you're looking to contribute, please be advised that I do not intend to make too many changes to the current version.
 :---: | :---
 
-[![Discord](https://img.shields.io/discord/716390832034414685?logo=discord&style=for-the-badge)](https://discord.gg/QyEWy4C)
+[![Discord](https://img.shields.io/discord/806921963611619348?logo=discord&style=for-the-badge)](https://discord.gg/QyEWy4C)
 ![Python](https://img.shields.io/badge/Python-3.8-red?style=for-the-badge)
 ![License](https://img.shields.io/github/license/oliver-ni/poketwo?style=for-the-badge)
 
 A Pokémon-oriented Discord bot that lets you collect pokémon. Catch pokémon in the wild, level your pokémon, compete with your friends, and more.
 
-The source code here is provided for educational purposes. I would recommend against running your own instance of this bot. Instead, use `p!invite` and [click the link](https://invite.poketwo.net) to add the bot to your server.
+The source code here is provided for educational purposes. I would recommend against running your own instance of this bot. Instead, use `p!invite` and [click the link](https://discord.com/oauth2/authorize?client_id=806921963611619348&permissions=388168&scope=bot%20applications.commands) to add the bot to your server.
 
 ## Contributing
 
